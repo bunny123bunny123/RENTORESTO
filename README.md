@@ -1,2 +1,5 @@
 # RENTORESTO
-The Project is about hotel management 
+The Project is about hotel management
+print={"HOTEL MANAGEMENT"}
+SYNTAX=RENTORESTO ,HI FOGGH 
+WORLDS NO 1 COMPANY SO DO IT PROPERLY 
